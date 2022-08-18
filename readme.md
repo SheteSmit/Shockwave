@@ -20,3 +20,4 @@ Visit the project website at https://shockwave.lol
 - python
 - html5
 - mongodb
+- React.JS
